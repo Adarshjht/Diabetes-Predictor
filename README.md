@@ -1,2 +1,1 @@
 "# Diabetes-Predictor" 
-"# Diabetes-Predictor" 
